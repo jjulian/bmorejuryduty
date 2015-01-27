@@ -1,0 +1,12 @@
+= react_component('CourtDays', {days: @court_days}, {prerender: true})
+
+hr
+
+- @court_days.each do |d|
+  p
+    | On
+    =<> d.court_date
+    ' (which was a #{d.dow})
+    | they called
+    =<> d.count
+    | jurors.

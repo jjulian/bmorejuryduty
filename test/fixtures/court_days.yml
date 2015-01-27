@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  court_date: 2015-01-14
+  count: 1
+  source_text: MyText
+
+two:
+  court_date: 2015-01-14
+  count: 1
+  source_text: MyText
