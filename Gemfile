@@ -24,8 +24,10 @@ gem 'sprockets-coffee-react'
 gem 'sanitize'
 
 # JS Assets
-gem 'rails-assets-underscore'
-gem 'rails-assets-moment'
+source 'https://rails-assets.org' do
+  gem 'rails-assets-underscore'
+  gem 'rails-assets-moment'
+end
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
