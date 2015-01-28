@@ -17,8 +17,8 @@ ActiveRecord::Schema.define(version: 20150115042345) do
   enable_extension "plpgsql"
 
   create_table "court_days", force: :cascade do |t|
-    t.date     "court_date"
-    t.integer  "count"
+    t.date     "court_date",  null: false
+    t.integer  "count",       null: false
     t.text     "source_text"
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
