@@ -18,8 +18,9 @@ The data was cleaned using [Google Refine](http://openrefine.org/).  The clean c
 4. **min** `int` The min juror number to report
 5. **max** `int` The max juror number to report
 6. **date** `date` The reporting date
-7. **tweet_id** `int` ID from Twitter
-8. **timestamp** `date` Timestamp from Twitter
+7. **dow** `string` Day of Week of the reporting date
+8. **tweet_id** `int` ID from Twitter
+9. **timestamp** `date` Timestamp from Twitter
 
 Some notes on the data:
 
