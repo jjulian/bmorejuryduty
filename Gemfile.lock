@@ -10,6 +10,7 @@ GIT
 
 GEM
   remote: https://rubygems.org/
+  remote: https://rails-assets.org/
   specs:
     actionmailer (4.2.0)
       actionpack (= 4.2.0)
@@ -216,8 +217,8 @@ DEPENDENCIES
   pg
   quiet_assets
   rails (~> 4.2.0)
-  rails-assets-moment
-  rails-assets-underscore
+  rails-assets-moment!
+  rails-assets-underscore!
   rails_12factor
   react-rails (~> 1.0.0.pre)!
   sanitize
