@@ -1,3 +1,4 @@
+require 'open-uri'
 class Parser
 
   attr_reader :date, :count, :text

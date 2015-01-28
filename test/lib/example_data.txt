@@ -1,0 +1,230 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Circuit Court - Juror Selection Announcements</title>
+</head>
+
+<body link="#FFFFFF" vlink="#00FFFF" topmargin="0" leftmargin="0">
+
+<table border="0" cellpadding="0" cellspacing="0" width="759">
+  <tr>
+    <td width="756" height="139" valign="bottom"><img border="0" src="http://www.baltocts.state.md.us/image/simplebanner_combo.JPG" width="756" height="139"></td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="801">
+  <tr>
+    <td width="200" background="http://www.baltocts.state.md.us/image/leftbar.jpg" valign="top" bgcolor="#000080">
+      <p align="left"><b><font color="#CAE4FF" face="Arial" size="3"><img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      </font></b><font face="Arial" color="#FFFF00" size="3"><b><a href="http://www.baltocts.state.md.us">Welcome</a></b></font><b><font size="3"><font size="3" face="Arial" color="#FFFF00"><br>
+      </font><font color="#CAE4FF" face="Arial"><img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/kiosk.htm">Online Kiosk</a><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      </font><a href="http://www.baltocts.state.md.us/about/aboutus.htm"><font face="Arial">About
+      Us</font></a><font color="#CAE4FF" face="Arial"><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/clerks.htm">About Clerks</a><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/divisions/divisions.htm">Divisions</a><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      </font><a href="http://www.baltocts.state.md.us/jury/jury.htm"><font color="#FFFFFF" face="Arial">Jury
+      Service</font></a><font color="#CAE4FF" face="Arial"><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/newsroom.htm">News Room</a><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/technology/tech.htm">Technology</a><br>
+      <img border="0" src="http://www.baltocts.state.md.us/image/bullet.GIF" width="12" height="12">
+      <a href="http://www.baltocts.state.md.us/about/contactus.htm">Contact Us</a></font></font></b>
+      <p align="left">
+      <p align="left">
+      <p align="left">
+      <p align="left"></td>
+    <td width="638" valign="top">
+              <p align="center"><font color="#000080" face="Times New Roman" size="6"><b>Daily
+              Juror Call-in&nbsp;
+              Notification Service</b></font><font face="Arial" size="1"><a href="http://www.baltocts.sailorsite.net/jury/jury.htm"><font color="#0000FF"><br>
+              [jury main page]</font></a><font color="#0000FF"> </font><font color="#000080"><a href="http://www.baltocts.sailorsite.net/test/jurordiscounts.htm"><font color="#0000FF">[jur</font></a></font><a href="http://www.baltocts.sailorsite.net/jury/jurordiscounts.htm"><font color="#0000FF">or
+              discounts]</font></a><font color="#000080">&nbsp;</font><a href="http://www.baltocts.sailorsite.net/flypage/juror-select.html"><font color="#0000FF">[juror
+              call-in]</font></a><font color="#0000FF"> </font><a href="http://www.baltocts.sailorsite.net/jury/juryservice.htm"><font color="#0000FF">[about
+              jury service]</font></a><font color="#000080">&nbsp;</font><font color="#0000FF">[</font><a href="http://www.baltocts.sailorsite.net/jury/juryselection.htm"><font color="#0000FF">jury
+              selection]</font></a><font color="#000080">&nbsp;<font color="#0000FF">[</font></font><a href="http://www.baltocts.sailorsite.net/jury/juryFAQ.htm"><font color="#0000FF">FAQ]</font></a></font>
+              <hr width="80%" size="3" color="#800000">
+
+
+
+
+
+             
+
+
+
+
+
+      <blockquote>
+
+
+
+
+
+<div align="center">
+  <table border="2" cellspacing="1" width="557" height="87">
+    <tr>
+      <td width="545" bgcolor="#FFFFCC">
+        <p align="left">
+
+
+
+
+<font size="4" face="Arial">
+<u><font color="#FF0000"><b>
+Attention Jurors:</b></font></u>&nbsp; </font><font size="4" face="Times New Roman">On this day, <!--startv001-->WEDNESDAY, January 28, 2015 jurors with summonses numbered 4000 through and including 5200 are to report for jury service.<P><!--NoHTML--><!--endv001--> </font>
+        <P><font size="4" face="Times New Roman"><!--startv002-->Please bring your summons and photo ID with you.<P>*Updated 012715 4:19<!--NoHTML--><!--endv002--></font><font size="4" face="Arial">
+        </font>
+        <p align="left">
+
+
+
+
+        <font face="Times New Roman" size="3"><u> Updated
+information is provided Monday through Friday at 5 p.m.</u></font></td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+<p><u>
+<b><font face="Arial" size="3" color="#800000">
+If selected, please read all the following instructions before reporting!</font></b></u>
+</p>
+
+
+
+
+
+<ul>
+  <li><font face="Arial" size="3">Bring your summons with you.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">Please arrive at 8:00 a.m. in
+    Room 240, West Courthouse.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">Please enter the building
+    through the St. Paul Street entrance.&nbsp;&nbsp; There is also a handicap
+    accessible entrance on Fayette Street.</font><font face="Helv" size="2">&nbsp;&nbsp;
+    </font><font face="Arial" size="3">Please <u><b>do
+    not</b></u> use the Lexington entrance in order to
+    avoid security delays.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">Vending and change machines are
+    in the Jury Assembly Area.&nbsp; You may bring your lunch and any reading or
+    work material with you.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">For emergency assistance call
+    (410) 333-3775 between 8:30 a.m. and 10:30 a.m.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">For emergency weather closings, please listen to WBAL,1090AM on your radio or visit
+    <a href="http://www.baltocts.state.md.us/flypage/emergency.html"><font color="#0000FF">http://www.baltocts.state.md.us/flypage/emergency.html</font></a>
+    to make sure the Courts are open.</font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">By order of the Baltimore City
+    Sheriff's Department some items are prohibited and are not to be
+    brought into the building.</font><font face="Arial" size="2"> <a href="http://www.baltocts.state.md.us/flypage/Prohibited.htm" <font face="Arial" size="2"><font color="#0000FF">Click
+    here for details</font></a></font></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">Other items are allowed
+    with restrictions.</font><font size="2" face="Arial" color="#0000FF">&nbsp;</font><a href="http://www.baltocts.state.md.us/flypage/Restricted.htm" <font face="Arial" size="2"><font color="#0000FF" face="Arial" size="2">Click
+    here for details</font></a></li>
+  <li>
+    <p align="left"><font face="Arial" size="3">Proper Dress is required.&nbsp;</font>
+	<font FACE="Arial" SIZE="3" COLOR="#ff0000">Uniform type attire (e.g., medical, law enforcement, military, etc.) should
+	 not be worn for jury service. Abbreviated clothing such as: shorts, muscle shirts, halter tops, 
+	 bare midriff, leggings/meggings, etc., are not acceptable court attire. Exposed underwear, clothing 
+	 with inappropriate language, and other types of clothing not appropriate for court are not to be worn
+		</font>
+    <blockquote>
+    </li>
+</ul>
+
+<div align="left">
+  <table border="2" cellspacing="1" width="567">
+    <tr>
+      <td width="555" bgcolor="#FFFFCC"><font FACE="Helv" SIZE="2"><b>Alert! -
+        Juror Identity Theft Scam</b>
+        <blockquote>
+          <p>Some identity theft scams have been reported where a
+          &quot;scammer&quot; claims to be from the court and need to verify
+          your personal information. The scammer may even threaten to issue a
+          warrant for your arrest by falsely claiming that you failed to appear
+          for jury service. It should be noted that </font><font FACE="Helv" SIZE="2" COLOR="#ff0000">court
+          workers would never call you to ask for your Social Security Number or
+          other private information</font><font FACE="Helv" SIZE="2">.</p>
+          <p>Please protect yourself. Never give personal information when
+          answering an unsolicited phone call and/or email.</p>
+        </font>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<font face="Arial" size="2">
+
+
+
+<div align="left">
+  <table border="2" cellspacing="1" width="567">
+    <tr>
+      <td width="555" bgcolor="#FFFFCC"><font FACE="Helv" SIZE="2"><b>Administrative Order on Use of Cell Phones and other Communication Devices</b>
+        <blockquote>
+      <p align="center"><a href="http://www.baltocts.state.md.us/about/cell_phone10b.doc"><font color="#0000ff">Administrative
+      Order on Use of Cell Phones and other Communication<br>
+      Devices</font></a>
+</p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<font face="Arial" size="2">
+
+
+
+<p align="left"><font size="3" face="Arial">Thank you for your public service.&nbsp;
+If you have questions, please view our <a href="http://www.baltocts.state.md.us/jury/juryFAQ.htm"><font color="#0000FF">frequently
+asked questions</font></a> section before contacting the Jury Commissioner's Office at
+(410) 333-3775.&nbsp; If you need directions, click<font color="#0000FF"> </font></font></font><a href="http://www.baltocts.state.md.us/about/direction.html"><font color="#0000FF" face="Arial" size="3">here</font></a><font face="Arial" size="2"><font size="3" face="Arial">.&nbsp;&nbsp;</font></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <p align="left">&nbsp;</p>
+      </blockquote>
+    </td>
+    <td width="11" valign="top">
+    </td>
+  </tr>
+</table>
+
+</body>
+
+</html>
