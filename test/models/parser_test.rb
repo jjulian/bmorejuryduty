@@ -9,9 +9,8 @@ class ParserTest < ActiveSupport::TestCase
     assert_equal "2015-01-15", result.date.strftime("%Y-%m-%d")
   end
 
-  test "parse from web" do
-    #html = File.open("test/lib/example_data.txt").read
-    stub_request(:get, "http://www.baltocts.sailorsite.net/flypage/juror-select.html").to_return(:body => File.open('test/lib/example_data.txt'), :status => 200)
+  test "parse from html" do
+    stub_request(:get, Parser::JUROR_SELECT_URL).to_return(body: File.open('test/fixtures/juror-select.html'), status: 200)
     text =   "<!--startv001-->WEDNESDAY, January 28, 2015 jurors with summonses numbered 4000 through and including 5200 are to report for jury service.<P><!--NoHTML--><!--endv001-->"
     result = Parser.from_web
     assert_equal text, result.text
